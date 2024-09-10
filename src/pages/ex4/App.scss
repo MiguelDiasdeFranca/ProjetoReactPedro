@@ -1,0 +1,191 @@
+
+.exercicio4{
+
+    
+    
+    display: flex;
+    flex-direction: column;
+    
+    .pagina1{
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    justify-content:space-between;
+    padding: 10px 40px;
+    background-color: #6278F7;
+    
+    .inicio{
+        
+        
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content:space-around;
+        gap: 20px;
+        color: white;
+        
+        img{
+
+            width: 40px
+            
+        }
+
+        
+    }
+    
+    .acesso{
+
+        display: flex;
+      
+        gap: 20px;
+        
+        a{
+            text-decoration: none;
+            color: white;
+        }
+
+        
+        
+    }
+    
+    
+}
+
+.tudo{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    .conteudo{
+        
+        display: flex;
+flex-direction: column;
+align-items: center;
+background-color: white;
+margin-top: 50px;
+gap: 20px;
+width: 500px;
+height: 200px;
+justify-content: center;
+border-radius: 9px;
+
+        
+        
+        
+        .cont1{
+
+            display: flex;
+            gap: 10px;
+            
+            input{
+                
+                border: 0px;
+
+                
+                
+                
+            }
+            
+
+
+}
+
+
+.cont2{
+
+    display: flex;
+    gap: 10px;
+    
+    input{
+        
+        border: 1px;
+        
+        
+    }
+    
+    
+    
+}
+
+
+
+}
+
+button{
+    
+    
+    background-color: #6278F7;
+    border: 0px solid black;
+padding: 10px;
+border-radius: 4px;
+
+
+}
+
+
+}
+
+.titulo{
+    background-color: white;
+    margin-top: 30px;
+    height: 150px;
+    width: 1275px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+
+
+
+.linha_amarela{
+    margin-top: 20px;
+    background-color: #fffb00;
+    height: 5px;
+    margin-top: 20px;
+    
+}
+
+.capa1{
+    width: 40px;
+    height: 40px;
+}
+
+.titulo01{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.resultado{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    width: 500px;
+    height: 200px;
+    align-items: end;
+
+    
+    
+    .resultado1{
+
+        font-size: 18px;
+        margin-top: -25px;
+
+
+    }
+
+    
+
+
+    
+    
+}
+}

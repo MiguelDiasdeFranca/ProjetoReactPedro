@@ -1,0 +1,116 @@
+.exercicio2{
+
+    
+    
+    display: flex;
+    flex-direction: column;
+    
+   
+    
+
+.conteudo{
+
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: white;
+margin-top: 50px;
+gap: 20px;
+width: 500px;
+height: 200px;
+justify-content: center;
+border-radius: 9px;
+
+
+
+
+.cont1{
+
+display: flex;
+gap: 10px;
+
+input{
+
+border: 0px;
+
+
+}
+
+
+
+}
+
+
+.cont2{
+
+    display: flex;
+    gap: 10px;
+    
+    input{
+    
+    border: 0px;
+    
+    
+    }
+    
+    
+    
+    }
+    
+
+  
+}
+
+button{
+
+background-color: #6278F7;
+border: 0px solid black;
+padding: 10px;
+border-radius: 4px;
+
+
+}
+
+
+
+
+.titulo{
+    background-color: white;
+    margin-top: 30px;
+    height: 150px;
+    width: 1275px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+   
+}
+
+.tudo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.linha_amarela{
+    margin-top: 20px;
+    background-color: rgb(98, 0, 255);
+    height: 5px;
+    margin-top: 20px;
+    
+}
+
+.capa1{
+    width: 40px;
+    height: 40px;
+}
+
+.titulo01{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+}

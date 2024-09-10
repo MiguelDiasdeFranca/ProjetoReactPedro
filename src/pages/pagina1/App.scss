@@ -1,0 +1,119 @@
+
+
+.total{
+
+    
+    
+    display: flex;
+    flex-direction: column;
+    
+   
+
+.conteudo{
+
+
+margin: 30px 50px;
+
+    .quadrados{
+
+        display: flex;
+        flex-direction: row;
+        margin: 0px 15px;
+        gap: 40px;
+
+        a{
+
+            text-decoration: none;
+            color: black;
+            
+            .primeiro{
+                
+                border: 1px solid rgb(255, 255, 255);
+                background-color: white;
+                width: 200px;
+            height: 158px;
+            border-radius: 12px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            
+           
+            
+            
+
+
+
+
+            .amarelo{
+                width: 60px;
+                height: 60px;
+                background-color: #ffd414;
+                border-radius: 12px;
+                margin-top: 10px;
+                margin-bottom: -10px;
+              
+
+                
+
+            }
+
+            .roxo{
+                width: 60px;
+                height: 60px;
+                background-color: #4c00ff;
+                border-radius: 12px;
+                margin-top: 10px;
+                margin-bottom: -10px;
+              
+
+                
+
+            }
+
+            .verde{
+                width: 60px;
+                height: 60px;
+                background-color: #3cff00;
+                border-radius: 12px;
+                margin-top: 10px;
+                margin-bottom: -10px;
+              
+
+            }
+
+            .azul{
+                width: 60px;
+                height: 60px;
+                background-color: #00fff2;
+                border-radius: 12px;
+                margin-top: 10px;
+                margin-bottom: -10px;
+              
+
+
+            .texto{
+
+                margin-top: 7px;
+                text-align: center;
+                
+                
+                p{
+                    font-size: 14px;
+                }
+            }
+
+          
+
+            
+            
+        }
+        
+    }
+
+    }
+
+
+
+    }
+}
+};

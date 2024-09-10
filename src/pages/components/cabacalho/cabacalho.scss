@@ -1,0 +1,47 @@
+
+
+.Cabeca {
+        
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    padding: 10px 40px;
+    background-color: #6278F7;
+
+  .inicio{
+    
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    gap: 20px;
+    color: white;
+    
+    img{
+
+        width: 40px
+        
+    }
+
+    
+  }
+
+.acesso{
+
+    display: flex;
+  
+    gap: 20px;
+    
+    a{
+        text-decoration: none;
+        color: white;
+    }
+
+    
+    
+}
+
+
+}
